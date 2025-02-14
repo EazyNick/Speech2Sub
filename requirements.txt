@@ -1,0 +1,5 @@
+whisper
+torch
+deep-translator
+srt
+ffmpeg-python
