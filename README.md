@@ -42,6 +42,7 @@ pip install -r requirements.txt
 - `deep-translator` (Google 번역 API)
 - `srt` (SRT 파일 생성 및 관리)
 - `ffmpeg-python` (FFmpeg를 파이썬에서 제어)
+- `argostranslate` (오픈소스 번역 라이브러리)
 
 ---
 
